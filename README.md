@@ -22,7 +22,8 @@ Inside gvSIG's decompressed folder, search for "gvsig-desktop.cmd" (Windows) fil
 ### Installing
 
 * [Test](https://github.com/Maureque/GSoC_2019/releases) - Download
-* [gvSIG's Add-ons manager](https://www.youtube.com/watch?v=PrGhD9qm8ok) - Tutorial Video
+* [Add-ons manager](https://www.youtube.com/watch?v=PrGhD9qm8ok) - Tutorial Video
+* [Install add-on from file](https://www.youtube.com/watch?v=2kcNanjW5Y8) - Tutorial Video
 
 ```
 Download Test.
@@ -32,22 +33,21 @@ Re-start gvSIG.
 
 ### Running
 
-* [gvSIG's Scripting launcher/composer](https://www.youtube.com/watch?v=ea5ZjpIEHaE) - Tutorial Video
+* [Scripting launcher/composer](https://www.youtube.com/watch?v=ea5ZjpIEHaE) - Tutorial Video
 
 ```
 Go to Scripting Tools.
 Go to Scripting Launcher.
 Expand Test's folder.
 Run (double click) Test's script.
-A temporal layer is generated. It can be exported and saved.
 ```
 
 ### Checking
 
-* [gvSIG Tutorials](https://www.youtube.com/channel/UCw5H2A0dkL8ab-RsUCOkjYQ/videos) - Tutorial Videos
+* [gvSIG course](https://www.youtube.com/playlist?list=PLTwZbMzUIxFINjiceQ4yTauymW9d0jYVh) - Tutorial Videos
 
 ```
-Check result.
+A temporal layer is generated. It can be exported and saved.
 ```
 
 ## Authors
