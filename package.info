@@ -1,0 +1,21 @@
+#
+#Sat Apr 27 21:59:20 UYT 2019
+owner=Mauro Carlevaro
+code=gsoc19-test
+java-version=j1_7
+official=false
+type=Script
+version=1.0.0-0
+state=testing
+operating-system=all
+dependencies=
+sources-url=
+web-url=
+architecture=all
+model-version=1.0.1
+categories=
+description=Google Summer of Code (GSoC) 2019 - gvSIG Association - Test
+owner-url=
+buildNumber=0
+gvSIG-version=2.4.0
+name=GSoC19 - Test
