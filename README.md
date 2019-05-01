@@ -47,7 +47,7 @@ Run (double click) Test's script.
 * [gvSIG course](https://www.youtube.com/playlist?list=PLTwZbMzUIxFINjiceQ4yTauymW9d0jYVh) - Tutorial Videos
 
 ```
-A temporal layer is generated. It can be exported and saved.
+A temporal layer is generated. It can be exported/saved.
 ```
 
 ## Authors
