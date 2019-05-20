@@ -43,7 +43,7 @@ Run (double click) Test's script.
 
 A temporal layer is generated. It can be exported/saved.
 
-## Authors
+## Author
 
 * **Mauro Carlevaro**
 
