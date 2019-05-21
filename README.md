@@ -13,8 +13,8 @@ Some comments and resources are included in order to help with gvSIG's downloadi
 * JRE/OpenJRE 7 or later
 * [gvSIG 2.4.0](http://www.gvsig.com/en/products/gvsig-desktop/downloads) - Download
 
-Download and install the appropriate **JRE/OpenJRE** version for the **OS** and **architecture**.  
-Download the appropriate version of **gvSIG Portable** for the **OS** and **architecture**.  
+Download and install the appropriate **JRE/OpenJRE** version for the corresponding **OS** and **architecture**.  
+Download the appropriate version of **gvSIG Portable** for the corresponding **OS** and **architecture**.  
 Uncompress the ZIP file, **NOT** directly in ```C:\``` (Windows) or ```/dev/sda/``` (Linux) and in a path with **NO** spaces.  
 E.g., create a ```gvsig-desktop``` folder in ```C:\``` (Windows) or ```/dev/sda/``` (Linux) and uncompress there.  
 Inside gvSIG's decompressed folder, search for ```gvsig-desktop.cmd``` (Windows) or ```gvSIG.sh``` (Linux) and execute it.
