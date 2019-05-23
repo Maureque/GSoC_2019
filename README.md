@@ -4,6 +4,9 @@
 
 * [Proposal](https://docs.google.com/document/d/1AWXqUTV04J442NZ_AKBopjKIHw6nHYfSHJMrCvnZSK0/edit?usp=sharing)
 
+## Introduction
+Having two layer in a View, one point layer and one polygon layer. Create a script in Jython that will find if a point is inside a polygon and show a list of them. Create a new layer just with the points that are inside a polygon, and if a polygon doesn't have any point, create one in its centroid.
+
 ## Getting started
 
 Some comments and resources are included in order to help with gvSIG's downloading/launching process and test's downloading/running process.
