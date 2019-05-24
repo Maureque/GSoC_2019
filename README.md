@@ -53,7 +53,7 @@ A temporal layer is generated. It can be exported/saved.
 
 ## License
 
-This project is licensed under the GPLv3 License.
+This project is licensed under the [GPLv3](LICENSE) License.
 ## Acknowledgments
 
 * gvSIG Association
